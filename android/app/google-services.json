@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956613694779",
+    "project_id": "yala-chat-80ab6",
+    "storage_bucket": "yala-chat-80ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956613694779:android:01b49a99b3d0f8cd6a931e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956613694779-n3fv1d5v3hr9lri4glct9eb217hk2ggc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDYtaaeB7pBtiR2KRDekF9qjsWjycnYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956613694779-n3fv1d5v3hr9lri4glct9eb217hk2ggc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
